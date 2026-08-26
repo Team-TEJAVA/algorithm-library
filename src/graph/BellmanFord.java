@@ -1,7 +1,6 @@
 package graph;
 
 import edge.Edge;
-import graph.Graph;
 
 import java.util.ArrayList;
 import java.util.Arrays;
