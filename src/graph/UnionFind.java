@@ -1,6 +1,6 @@
 package graph;
 
-public class UnionFind {
+public final class UnionFind {
 
     private final int[] parent; // parent[x] = x의 부모. 루트면 자기 자신
     private final int[] size; // size[root] = 그 그룹의 원소 수. 루트에서만 유효한 값.
